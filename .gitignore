@@ -1,0 +1,28 @@
+# 남의 폴더 / 공유받은 자료
+jens/
+jens.zip
+xueshi/
+things done on class/
+
+# 가상환경
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# 무거운 데이터 / 생성물 (필요하면 주석 처리)
+*.npy
+*.npz
+*.h5
+figures/
+
+# OS
+.DS_Store
