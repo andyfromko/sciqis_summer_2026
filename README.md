@@ -1,10 +1,12 @@
-# SCIQIS Summer 2026
+# SCIQIS Summer 2026   
 
 Work from DTU's [10387 — Scientific Computing in Quantum Information Science](https://kurser.dtu.dk/course/10387), a three-week intensive course held in Lyngby from 3 to 21 August 2026. The course material it follows is at [qpit/sciqis](https://github.com/qpit/sciqis).
 
 There are two directories here.
 
 [`final_project/`](final_project) is the main body of work: three receivers for telling apart the two coherent states $|{+}\alpha\rangle$ and $|{-}\alpha\rangle$, built in order of increasing capability and ending at the Dolinar receiver, which attains the Helstrom bound — the lowest error probability quantum mechanics permits for this task. That directory has its own README with the physics and the implementation.
+
+The final project was a team effort, done with [Mariana](https://github.com/marianabagulho) and Inês, and the joint repository is at [`marianabagulho/final_project_Mariana_Ines_Andrew`](https://github.com/marianabagulho/final_project_Mariana_Ines_Andrew) — that is the place to look for the team's full body of work and for who contributed what, since the commit history and the contributor graph there record it directly. What I have gathered into this repository is my own part of that effort.
 
 [`things_done_on_class/`](things_done_on_class) holds the daily exercise work from the first two weeks, following the course tutorials and demos. It is what the final project was built on top of rather than a result in itself, and it is documented briefly.
 
