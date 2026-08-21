@@ -1,4 +1,4 @@
-# SCIQIS Summer 2026
+# SCIQIS Summer 2026   
 
 Work from DTU's [10387 — Scientific Computing in Quantum Information Science](https://kurser.dtu.dk/course/10387), a three-week intensive course held in Lyngby from 3 to 21 August 2026. The course material it follows is at [qpit/sciqis](https://github.com/qpit/sciqis).
 
